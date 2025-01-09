@@ -1,5 +1,5 @@
 import React from 'react';
-const heroBanner = '/soi-hero-banner-2024.png';
+const heroBanner = 'public/images/soi-hero-banner-2024.png';
 
 function Home() {
   return (

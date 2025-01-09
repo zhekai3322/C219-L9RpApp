@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-const rpLogo = '/rp-logo.png';
+const rpLogo = '/images/rp-logo.png';
 
 function Header() {
   return (
