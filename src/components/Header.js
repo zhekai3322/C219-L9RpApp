@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-const rpLogo = '/images/rp-logo.png';
+const rpLogo = process.env.PUBLIC_URL + '/rp-logo.png';
+
 
 function Header() {
   return (

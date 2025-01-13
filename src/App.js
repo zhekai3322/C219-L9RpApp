@@ -2,11 +2,11 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Home from './pages/Home';
-import Diplomas from './pages/Diplomas';
+import Home from './components/Home';
+import Diplomas from './components/Diplomas';
 import RegistrationForm from './components/RegistrationForm';
 
-function App() {
+function RPApp() {
   return (
     <div>
       <Header />
@@ -22,4 +22,4 @@ function App() {
   );
 }
 
-export default App;
+export default RPApp;

@@ -1,5 +1,5 @@
 body {
-  background-color: #000;
+  background-color: #7bac9c;
   color: #ffffff;
   margin: 0;
   padding: 0;
@@ -16,7 +16,7 @@ header, footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #73068e;
+  background: #c032e3;
   padding: 10px 20px;
   font-style: initial;
 }
@@ -37,6 +37,7 @@ nav a:hover {
 
 .img-feat {
   width: 100%;
+  height:fit-content;
   height: auto;
   margin-bottom: 20px;
 }
@@ -50,11 +51,11 @@ nav a:hover {
 }
 
 .module-link {
-  color: #1e90ff;
+  color: #ff0000;
 }
 
 .module-link:hover {
-  color: #104e8b;
+  color: #ffffff;
 }
 
 form input {

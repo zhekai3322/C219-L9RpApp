@@ -1,5 +1,5 @@
 import React from 'react';
-import DiplomaList from '../components/DiplomaList';
+import DiplomaList from './DiplomaList';
 
 function Diplomas() {
   return (
